@@ -5,6 +5,8 @@
 
 **Places:** St Lawrence [Laurence] Church, Ramsgate Pier, Piermont House Broadstairs, Canterbury Cathedral
 
+<param ve-image iiif url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Queen_Victoria_-_Princess_Victoria_in_1836.png/542px-Queen_Victoria_-_Princess_Victoria_in_1836.png" label=Princess Victoria in 1836 From the Portrait by F. Winterhalter attribution=WikiCommons>
+
 >“The streets were ornamented with arches of flowers and flags. The open, free, boundless (to the eye), ocean looked very refreshing. There is nothing between us and France but the sea, here. We have got a small but very nice house, overlooking the sea quite close.” (29th Sept 1835).
 
 The fifteen-year-old Princess travelled by carriage from Kensington Palace to Ramsgate with her mother Victoria, Duchess of Kent, her lady-in-waiting Lady Flora Hastings, her governess Baroness Louise Lehzen and Sir John Ponsonby Conroy, who acted as her mother’s advisor and comptroller. Victoria recorded the warm reception from the locals, noting that the streets were adorned with flowers and flags, the boats in the harbour were decorated with the colours of all nations, cheering crowds waited beneath the balcony of Albion House and a gun salute rang out over the town. Following the arrival of Victoria’s maternal uncle Leopold and his wife Louisa on 29th September 1835, illuminations and fireworks entertained the vast crowds who congregated in Ramsgate to view the Royal visitors.
