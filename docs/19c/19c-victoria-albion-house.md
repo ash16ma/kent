@@ -5,7 +5,7 @@
 
 **Places:** St Lawrence [Laurence] Church, Ramsgate Pier, Piermont House Broadstairs, Canterbury Cathedral
 
-"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Queen_Victoria_-_Princess_Victoria_in_1836.png/542px-Queen_Victoria_-_Princess_Victoria_in_1836.png" 
+<param ve-image iiif url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Queen_Victoria_-_Princess_Victoria_in_1836.png/542px-Queen_Victoria_-_Princess_Victoria_in_1836.png"> 
 
 >“The streets were ornamented with arches of flowers and flags. The open, free, boundless (to the eye), ocean looked very refreshing. There is nothing between us and France but the sea, here. We have got a small but very nice house, overlooking the sea quite close.” (29th Sept 1835).
 
